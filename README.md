@@ -51,7 +51,7 @@ Dans ce fichier, vous allez utiliser `describe`, `it`, `expect` depuis `vitest`.
 > describe("formatUserName", () => {
 >   it("formate correctement un nom et prénom", () => {
 >     const result = formatUserName("alice", "dupont");
->     expect(result).toBe("Dupont, Alice");
+>     expect(result).toBe("Alice Dupont");
 >   });
 > });
 > ```
