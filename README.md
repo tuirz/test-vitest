@@ -1,8 +1,3 @@
-Bien vu ! Voici la version corrigée du `README.md`, entièrement en markdown :
-
----
-
-````markdown
 # 🧪 Exercice : Tester une fonction avec Vitest
 
 Dans ce projet React, une fonction nommée `formatUserName` a été créée pour formater un prénom et un nom d'utilisateur.
